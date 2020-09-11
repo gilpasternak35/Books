@@ -24,7 +24,7 @@ A book that explains my own Mathematical worldview as well as I've seen it expla
 
 ### Moneyball - Michael Lewis
 
-*Moneyball* is frankly meant for entertainment, but it is a very powerful testimony to the power of algorithmic optimization. This book singlehandedly helped me acquire my love of sports analytics.
+*Moneyball* is frankly meant for entertainment, but it is a very powerful testimony to the power of algorithmic optimization. This book greatly helped increase my love of sports analytics.
 
 
 
@@ -39,7 +39,11 @@ Deeply entrenched as one of my 2-3 favorite books of all time, the Fountainhead 
 
 ### A Brave New World - Aldous Huxley
 
-A brilliantly written story that really helped increase my self-awareness as a member of society. A powerful testament to the idea that culture is defined by leaders, and very frequently so is paradigm.
+A brilliantly written story that really helped increase my self-awareness. A powerful testament to the idea that culture is defined by leaders, and very frequently so is paradigm.
+
+### The Gulag Archipelago - Aleksandr Solzhenitsyn
+
+Fascinating tale of human courage, suffering, and tyranny. Worth reading merely on the basis of the shock value of the grossly inhuman conditions of the Russian Gulags.
 
 ### Outliers- Malcolm Gladwell
 
