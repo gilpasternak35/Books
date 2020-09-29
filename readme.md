@@ -11,7 +11,7 @@ best place to find it. It explains complex ideas in a very clear way.
 
 ### Mathematics for Computer Science - Eric Lehman
 
-A Math textbook whose first 6-7 chapters explain math in the most exciting and brilliant way I've seen it explained. A must read for anyone 
+A Math textbook whose first 6-7 chapters explain math in the most exciting way I've seen it explained. A must read for anyone 
 who wants to learn Math-CS fundamentals in a way that won't bore.
 
 ### Thinking Fast and Slow - Daniel Khaneman
@@ -20,11 +20,11 @@ A book that has been very monumental in my life, *Thinking Fast and Slow* explai
 
 ### The Signal and the Noise - Nate Silver
 
-A book that explains my own Mathematical worldview as well as I've seen it explained anywhere. Becomes somewhat of a repetitive read at some point, but gives a really powerful introduction to Bayesian thinking.
+A book that explains a Statistical worldview as well as I've seen it explained anywhere. Becomes somewhat of a repetitive read at some point, but gives a really powerful introduction to Bayesian thinking.
 
 ### Moneyball - Michael Lewis
 
-*Moneyball* is frankly meant for entertainment, but it is a very powerful testimony to the power of algorithmic optimization. This book greatly helped increase my love of sports analytics.
+*Moneyball* is frankly meant for entertainment, but it is a very powerful testimony to the power of algorithmic optimization. This book helped kickstart my love for Statistics and Analytics.
 
 
 
