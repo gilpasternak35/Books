@@ -9,11 +9,6 @@ order. All these books have changed my worldview and greatly contributed to the 
 Probably the best "idea book" I've read in a while. If you're looking for inspiration in the automation of human decision making. This book is the 
 best place to find it. It explains complex ideas in a very clear way.
 
-### Mathematics for Computer Science - Eric Lehman
-
-A Math textbook whose first 6-7 chapters explain math in the most exciting way I've seen it explained. A must read for anyone 
-who wants to learn Math-CS fundamentals in a way that won't bore.
-
 ### Thinking Fast and Slow - Daniel Khaneman
 
 A book that has been very monumental in my life, *Thinking Fast and Slow* explains how seemingly "intuitive decisions" often come on the basis of irrationality and that true thought activation is an expense people frequently would subconciously rather avoid. A must read for anyone interested in Math, the human brain, or Statistics.
@@ -45,9 +40,8 @@ A brilliantly written story that really helped increase my self-awareness. A pow
 
 Fascinating tale of human courage, suffering, and tyranny. Worth reading merely on the basis of the shock value of the grossly inhuman conditions of the Russian Gulags.
 
-### Outliers- Malcolm Gladwell
-
-I think the point that most people took from this is that the world's most successful people are the way they are because they got lucky, but I personally love this book because I think it is a powerful testament to the value of combining hard work with a strong culture and good parenting. Luck, however, is also an inevitable aspect of life that people often neglect and this book certainly stresses it's importance.
+### Hitchiker's Guide to the Galaxy (whole series) - Douglas Adams
+Hilarious, very insightful, and the ultimate way to start reading science fiction. Would recommend to practically anyone, just on the basis that reading about the relatively pathetic life of Arthur Dent will improve anyone's bad day, not to mention that the book contains the answer to Life, the Universe, and Everything and the answer to an even bigger question that has plagued the mind of many for centuries: "Where shall we eat?"
 
 ### Cat's Cradle - Kurt Vonnecut
 
