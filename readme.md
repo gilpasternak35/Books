@@ -26,15 +26,11 @@ A book that explains a Statistical worldview as well as I've seen it explained a
 ## Non-STEM
 ### How to win Friends and Influence People - Dale Carnegie
 
-A book that has transformed my own self image and has really helped me improve myself as a person. My obsession with this book lies not so much with Carnegie's tips, but rather with his way of thinking, which lays down the foundation of being a likeable person: stop being so self-obsessed for once, and show your loved ones you legitimately care about them.
+A book that has transformed my own self image and has really helped me improve myself as a person. My obsession with this book lies not so much with Carnegie's tips, but rather with his way of thinking, which lays down the foundation of being a likeable person: stop being so self-obsessed for once, stop trying to always be right, and start picking your battles - its not always a bad thing to be strategic with your social life.
 
 ### The Fountainhead - Ayn Rand
 
-Deeply entrenched as one of my 2-3 favorite books of all time, the Fountainhead is a captivating story that teaches the value of exceptionalism, expertise, and dedication.
-
-### A Brave New World - Aldous Huxley
-
-A brilliantly written story that really helped increase my self-awareness. A powerful testament to the idea that culture is defined by leaders, and very frequently so is paradigm.
+Deeply entrenched as one of my 2-3 favorite books of all time, the Fountainhead is a captivating story that teaches the value of exceptionalism and dedication.
 
 ### The Gulag Archipelago - Aleksandr Solzhenitsyn
 
@@ -45,4 +41,19 @@ Hilarious, very insightful, and the ultimate way to start reading science fictio
 
 ### Cat's Cradle - Kurt Vonnecut
 
-Quite easily my favorite book of all time. A brilliantly fabricated story that shines a light upon the conflicting forces that control our everyday life: inspiration, innovation, storytelling, lying, and relative beauty.
+Quite easily my favorite book of all time. A brilliantly fabricated story that shines a light upon the conflicting forces that control our everyday life: inspiration, innovation, storytelling, lying, and relative beauty. Also full of catchy poems that sound ridiculous and yet are suprisingly deep.
+
+### Sirens of Titan - Kurt Vonnecut
+
+Another Vonnecut classic - a fascinating story that takes quite a few drastic turns, as the luckiest man in the world quickly ceases to become so lucky and the all too common phenomena of regression to the mean is shown at its finest. Comedic, deeply intelligent, and - just like all Vonnecut books - will make you question whether your whole life has been the product of extraterrestrial interference.
+
+### The Moon is a Harsh Mistress - Robert Heinlen
+
+A technologically and socially brilliant prediction of the future. A massive testament to the power of indoctrination.
+
+### Watership Down - Richard Adams
+
+Barely Science fiction, and yet simultaneously one of the greatest science fiction books ever written. Talking Rabbits who can intelligently organize have a way of capturing the heart.
+
+
+
