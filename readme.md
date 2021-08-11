@@ -6,12 +6,12 @@ order. All these books have changed my worldview and greatly contributed to the 
 ## STEM-ish
 ### Algorithms to Live By - Brian Christian and Tom Griffiths
 
-Probably the best "idea book" I've read in a while. If you're looking for inspiration in the automation of human decision making. This book is the 
-best place to find it. It explains complex ideas in a very clear way.
+Probably the best "idea book" I've read in a while. If you're looking for inspiration in the automation of human decision making, this book is the 
+best place to find it. Explains complex ideas and their potential benefits to human societies in a very clear way.
 
 ### Thinking Fast and Slow - Daniel Khaneman
 
-A book that has been very monumental in my life, *Thinking Fast and Slow* explains how seemingly "intuitive decisions" often come on the basis of irrationality and that true thought activation is an expense people frequently would subconciously rather avoid. A must read for anyone interested in Math, the human brain, or Statistics.
+A book that has been very monumental in my life, *Thinking Fast and Slow* explains how seemingly "intuitive decisions" often come on the basis of irrationality and that true  activation of the logical brain is an expense people frequently would subconciously rather avoid. A must read for anyone interested in the human brain or human decision making.
 
 ### The Signal and the Noise - Nate Silver
 
@@ -41,7 +41,7 @@ Hilarious, very insightful, and the ultimate way to start reading science fictio
 
 ### Cat's Cradle - Kurt Vonnecut
 
-Quite easily my favorite book of all time. A brilliantly fabricated story that shines a light upon the conflicting forces that control our everyday life: inspiration, innovation, storytelling, lying, and relative beauty. Also full of catchy poems that sound ridiculous and yet are suprisingly deep.
+Quite easily my favorite book of all time. A brilliantly fabricated story that shines a light upon the conflicting forces that control our everyday life: inspiration, innovation, storytelling, the value of lying, and relative beauty. Also full of catchy poems that sound ridiculous and yet are suprisingly deep.
 
 ### Sirens of Titan - Kurt Vonnecut
 
